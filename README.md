@@ -1,8 +1,8 @@
 # Snake_Devin
-Simple Snake game in HTML, CSS and vanilla JavaScript.
+Snake game in HTML, CSS and vanilla JavaScript. No install needed; works on GitHub Pages.
 
 ## How to play
 1. Open `index.html` in any web browser (double-click it).
-2. Use the arrow keys to move the snake.
-3. Eat the red food to increase your score.
-4. The game ends if you hit a wall or yourself. Click **Restart** to play again.
+2. Click **Start**, then use the arrow keys to move the snake.
+3. Each red food is worth 10 points. Your high score is saved in this browser (localStorage).
+4. The game ends if you hit a wall or yourself. Use **Pause/Resume** anytime and **Restart** for a new game.
